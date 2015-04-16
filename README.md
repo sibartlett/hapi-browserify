@@ -31,7 +31,7 @@ server.register({
 Configures the default options for routes.
 
 * `path` - path to bundle file.
-* `cache` - boolean or 'dynamic', configures the handlers caching strategy. This does not set cache headers on the response - you should still use hapi for that.
+* `cache` - boolean, configures the handlers caching strategy. This does not set cache headers on the response - you should still use hapi for that.
 * `minify` - enable uglify, only recommended if `cache` is true.
 * `precompile` - precompile bundles where possible. Only works if `cache` is true.
 * bundle - browserify options, plus options for `require`, `exclude`, `external`, `transform`
