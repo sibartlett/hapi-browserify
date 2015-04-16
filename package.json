@@ -1,0 +1,15 @@
+{
+  "name": "hapi-browserify",
+  "license": "MIT",
+  "author": "Simon Bartlett <simon@sibartlett.com>",
+  "version": "0.0.1",
+  "description": "Browserify plugin for hapi",
+  "homepage": "https://github.com/sibartlett/hapi-browserify",
+  "repository": "git://github.com/sibartlett/hapi-browserify",
+  "main": "lib/index.js",
+  "dependencies": {
+    "browserify": "^9.0.8",
+    "hoek": "^2.12.0",
+    "uglify-js": "^2.4.20"
+  }
+}
