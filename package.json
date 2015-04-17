@@ -2,7 +2,7 @@
   "name": "hapi-browserify",
   "license": "MIT",
   "author": "Simon Bartlett <simon@sibartlett.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Browserify plugin for hapi",
   "homepage": "https://github.com/sibartlett/hapi-browserify",
   "repository": "git://github.com/sibartlett/hapi-browserify",
