@@ -1,5 +1,7 @@
 # hapi-browserify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sibartlett/hapi-browserify.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/hapi-browserify.svg)](https://www.npmjs.com/package/hapi-browserify)
 [![Dependency Status](https://david-dm.org/sibartlett/hapi-browserify.svg)](https://david-dm.org/sibartlett/hapi-browserify)
 
