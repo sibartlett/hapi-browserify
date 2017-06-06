@@ -8,8 +8,8 @@
   "repository": "git://github.com/sibartlett/hapi-browserify",
   "main": "lib/index.js",
   "dependencies": {
-    "browserify": "^10.2.4",
-    "hoek": "^2.14.0",
-    "uglify-js": "^2.4.23"
+    "browserify": "^14.4.0",
+    "hoek": "^4.1.1",
+    "uglify-js": "^3.0.15"
   }
 }
